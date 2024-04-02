@@ -1,6 +1,6 @@
 # EX No.4.2. CUT SECTION OF SOLIDS
 ## DATE:
-
+21/03/2024
 ## AIM: 
 To create the solid model from given drawing and section the solid model
 
@@ -42,6 +42,8 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
+
+![WhatsApp Image 2024-03-21 at 13 57 24_881b330b](https://github.com/MageshCM/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/164765537/e10d0a9d-e89d-4f5d-b4b3-05a374c270ca)
 
 ## RESULT:
 Thus, the cut section for solid model is created.
